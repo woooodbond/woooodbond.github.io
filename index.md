@@ -2,7 +2,7 @@
 mathjax: true
 ---
 ...
-{% include newsletter.html %}
+{% include head.html %}
 ...
 
 # test
