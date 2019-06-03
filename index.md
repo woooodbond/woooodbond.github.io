@@ -1,5 +1,6 @@
 ---
 mathjax: true
+include: head.html
 ---
 
 # test
