@@ -5,6 +5,7 @@ title: index
 ---
 
 # test
+[test link](./testlink.md)
 
 ## test2
 
