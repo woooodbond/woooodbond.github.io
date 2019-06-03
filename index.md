@@ -1,7 +1,9 @@
 ---
 mathjax: true
-include: head.html
 ---
+...
+{% include newsletter.html %}
+...
 
 # test
 
